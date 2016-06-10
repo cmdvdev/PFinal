@@ -1,6 +1,5 @@
-<%response.sendRedirect("form");%>
 <html>
 <body>
-<h2>Página de inicio</h2>
+<h2>Hello World!</h2>
 </body>
 </html>
